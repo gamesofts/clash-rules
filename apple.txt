@@ -325,6 +325,8 @@ payload:
   - "+.push.apple.com"
   - "+.ess.apple.com"
   - "+.ls.apple.com"
+  - "+.gc.apple.com"  
   - "ocsp.apple.com"
   - "ocsp2.apple.com"
   - "time.apple.com"
+  - "amp-api-edge.apps.apple.com"
