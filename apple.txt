@@ -245,3 +245,4 @@ payload:
   - "ipcdn.apple.com"
   - "init.gc.apple.com"
   - "gdmf.apple.com"
+  - "inappcheck.itunes.apple.com"
