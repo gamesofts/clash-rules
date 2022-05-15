@@ -246,3 +246,4 @@ payload:
   - "init.gc.apple.com"
   - "gdmf.apple.com"
   - "inappcheck.itunes.apple.com"
+  - "humb.apple.com"
