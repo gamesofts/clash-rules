@@ -324,3 +324,5 @@ payload:
   - "+.wwwitunes.com"
   - "+.push.apple.com"
   - "+.ess.apple.com"
+  - "ocsp.apple.com"
+  - "ocsp2.apple.com"
