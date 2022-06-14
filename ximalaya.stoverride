@@ -1,0 +1,12 @@
+name: 喜马拉雅去广告
+desc: 喜马拉雅去广告
+
+http:
+  mitm:
+    - "adse.ximalaya.com"
+    - "w.ximalaya.com"
+  rewrite:
+    - ^https?:\/\/\w+?\.ximalaya\.com\/api\/v\d\/adRealTime - REJECT
+    - ^https?:\/\/adse\.ximalaya\.com\/ting\/feed\?appid= - REJECT
+    - ^https?:\/\/adse\.ximalaya\.com\/ting\?appid= - REJECT
+    - ^https?:\/\/adse\.ximalaya\.com\/ting\/loading\/ts-\d+\?appid= - REJECT
