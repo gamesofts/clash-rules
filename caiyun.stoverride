@@ -1,0 +1,17 @@
+name: 彩云天气
+desc: 彩云天气
+
+http:
+  mitm:
+    - "weather-data.apple.com"
+    - "api.weather.com"
+  script:
+    - match: ^https:\/\/((weather-data\.apple)|(api.weather))\.com
+      name: cytq
+      type: request
+      require-body: false
+      timeout: 10
+script-providers:
+  cytq:
+    url: https://raw.githubusercontent.com/Peng-YM/QuanX/master/Tasks/caiyun.js
+    interval: 86400
