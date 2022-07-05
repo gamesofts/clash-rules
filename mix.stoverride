@@ -1,0 +1,15 @@
+name: MIX滤镜大师解锁
+desc: MIX滤镜大师解锁(测试版)
+http:
+  mitm:
+    - "bmall.camera360.com"
+  script:
+    - match: ^https?:\/\/bmall\.camera360\.com\/api\/mix\/recovery
+      name: mix
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  mix:
+    url: https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/MIX.js
+    interval: 86400
