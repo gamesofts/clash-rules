@@ -1,0 +1,15 @@
+name: Pillow解锁
+desc: Pillow解锁(测试版)
+http:
+  mitm:
+    - "api.revenuecat.com"
+  script:
+    - match: ^https:\/\/api\.revenuecat\.com\/v1\/(subscribers|receipts)
+      name: pillow
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  pillow:
+    url: https://raw.githubusercontent.com/demo2099/jscool/master/Script/pillow.js
+    interval: 86400
