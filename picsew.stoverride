@@ -1,0 +1,15 @@
+name: Picsew解锁
+desc: Picsew解锁(测试版)
+http:
+  mitm:
+    - "buy.itunes.apple.com"
+  script:
+    - match: ^https?:\/\/buy\.itunes\.apple\.com\/verifyReceipt$
+      name: picsew
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  picsew:
+    url: https://raw.githubusercontent.com/aa75017730/Quantumult-X/main/JS_failarmy/PicsewProCrack.js
+    interval: 86400
