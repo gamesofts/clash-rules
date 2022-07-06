@@ -4,7 +4,7 @@ http:
   mitm:
     - "buy.itunes.apple.com"
   script:
-    - match: https://buy.itunes.apple.com/$
+    - match: https://buy.itunes.apple.com/verifyReceipt$
       name: focos
       type: response
       require-body: true
