@@ -4,12 +4,12 @@ http:
   mitm:
     - "buy.itunes.apple.com"
   script:
-    - match: ^https:\/\/buy\.itunes\.apple\.com\/$
-      name: mix
+    - match: https://buy.itunes.apple.com/$
+      name: focos
       type: response
       require-body: true
       timeout: 10
 script-providers:
-  mix:
+  focos:
     url: https://github.com/hcsavn/Quantumult-X/raw/main/script/hostbuy.js
     interval: 86400
