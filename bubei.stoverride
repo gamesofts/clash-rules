@@ -1,0 +1,15 @@
+name: 不背单词解锁
+desc: 不背单词解锁(测试版)
+http:
+  mitm:
+    - "sapi.beingfine.cn"
+  script:
+    - match: ^https:\/\/sapi\.beingfine\.cn\/v3\/report\/launch\/
+      name: beingfine
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  beingfine:
+    url: https://raw.githubusercontent.com/evilbutcher/Quantumult_X/master/remove_ad/bbdc.js
+    interval: 86400
