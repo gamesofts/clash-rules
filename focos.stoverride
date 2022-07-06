@@ -1,0 +1,15 @@
+name: FOCOS解锁
+desc: FOCOS解锁(测试版)
+http:
+  mitm:
+    - "buy.itunes.apple.com"
+  script:
+    - match: ^https:\/\/buy\.itunes\.apple\.com\/$
+      name: mix
+      type: response
+      require-body: true
+      timeout: 10
+script-providers:
+  mix:
+    url: https://github.com/hcsavn/Quantumult-X/raw/main/script/hostbuy.js
+    interval: 86400
