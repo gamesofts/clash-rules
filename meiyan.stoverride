@@ -4,12 +4,12 @@ http:
   mitm:
     - "api.meiyan.com"
   script:
-    - match: ^https:\/\/api\.meiyan\.com\/iap\/verify\.json
+    - match: ^https:\/\/api\.meiyan\.com
       name: meiyan
       type: response
       require-body: true
       timeout: 10
 script-providers:
   meiyan:
-    url: https://raw.githubusercontent.com/28413761/QX/main/jiaoben/myxj.js
+    url: https://raw.githubusercontent.com/hhse/Mul4hong/master/myxj.js
     interval: 86400
