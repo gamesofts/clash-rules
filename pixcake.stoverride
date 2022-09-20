@@ -4,7 +4,7 @@ http:
   mitm:
     - "api.pixcakeai.com"
   script:
-    - match: ^https?:\/\/api\.pixcakeai\.com\/api\/app\/user\/info
+    - match: ^https?:\/\/api\.pixcakeai\.com\/v1\/api\/app\/user\/info
       name: pixcakeai
       type: response
       require-body: true
