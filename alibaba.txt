@@ -110,6 +110,7 @@ payload:
   - PROCESS-NAME,ZenTermLite
   - PROCESS-NAME,阿里语雀
   - PROCESS-NAME,阿里语雀 Helper
+  - IP-CIDR,6.0.0.0/8,DIRECT
   - IP-CIDR,11.0.0.0/8,DIRECT
   - IP-CIDR,30.0.0.0/8,DIRECT
   - IP-CIDR,33.0.0.0/8,DIRECT
