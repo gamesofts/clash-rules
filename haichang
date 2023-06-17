@@ -1,0 +1,6 @@
+var url = $request.url;
+var crack = JSON.parse($response.body);
+if (url.indexOf('/api/scenicSpotTicket/getTotalByDay') > 0) {
+    crack = {"code":0,"data":1,"msg":"获取成功"};
+}
+$done({body: JSON.stringify(crack)});
