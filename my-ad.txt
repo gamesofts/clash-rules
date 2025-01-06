@@ -13,6 +13,7 @@ log-api.pangolin-sdk-toutiao.com
 mon.zijieapi.com
 mores.toponad.com
 mssdk.volces.com
+mtgglobals.com
 pubads.g.doubleclick.net
 resolve.umeng.com
 securepubads.g.doubleclick.net
