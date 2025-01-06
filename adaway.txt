@@ -5640,7 +5640,6 @@ tdcv3.talkingdata.net
 agent.tamedia.com.tw
 www.tamgrt.com
 acme.tango.me
-audid-api.taobao.com
 adashx4ae.ut.taobao.com
 h-adashx.ut.taobao.com
 tapad.com
