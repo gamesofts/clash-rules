@@ -3,6 +3,7 @@ api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
 app-analytics-services.com
 aspect-upush.umeng.com
+bridgeoos.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
 googleads.g.doubleclick.net
