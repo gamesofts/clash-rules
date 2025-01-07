@@ -1,3 +1,4 @@
+anythinktech.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api-access.pangolin-sdk-toutiao1.com
@@ -15,7 +16,10 @@ mon.zijieapi.com
 mores.toponad.com
 mssdk.volces.com
 mtgglobals.com
+mtgglobals.com
 pubads.g.doubleclick.net
+px.effirst.com
+rayjump.com
 resolve.umeng.com
 securepubads.g.doubleclick.net
 sf3-fe-tos.pglstatp-toutiao.com
@@ -23,4 +27,5 @@ tnc3-aliec2.zijieapi.com
 tnc3-alisc1.zijieapi.com
 tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
+toponadss.com
 utoken.umeng.com
