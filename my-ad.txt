@@ -41,3 +41,4 @@ v26-novelapp.fqnovelvod.com
 v3-novelapp.fqnovelvod.com
 v5-novelapp.fqnovelvod.com
 v6-novelapp.fqnovelvod.com
+v9-novelapp.fqnovelvod.com
