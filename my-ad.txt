@@ -1,3 +1,5 @@
+ads3-normal-lf.zijieapi.com
+ads5-normal-lf.zijieapi.com
 anythinktech.com
 api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
@@ -10,6 +12,8 @@ cnlogs.umengcloud.com
 googleads.g.doubleclick.net
 gromore.pangolin-sdk-toutiao.com
 lf-cdn-tos.bytescm.com
+lf3-reading.fqnovelpic.com
+lf3-reading.fqnovelstatic.com
 log-api.pangolin-sdk-toutiao-b.com
 log-api.pangolin-sdk-toutiao.com
 mon.zijieapi.com
@@ -17,6 +21,9 @@ mores.toponad.com
 mssdk.volces.com
 mtgglobals.com
 mtgglobals.com
+p3-ad-sign.byteimg.com
+p6-ad-sign.byteimg.com
+p9-ad-sign.byteimg.com
 pubads.g.doubleclick.net
 px.effirst.com
 rayjump.com
@@ -29,3 +36,8 @@ tnc3-bjlgy.zijieapi.com
 toblog.ctobsnssdk.com
 toponadss.com
 utoken.umeng.com
+v11-novelapp.fqnovelvod.com
+v26-novelapp.fqnovelvod.com
+v3-novelapp.fqnovelvod.com
+v5-novelapp.fqnovelvod.com
+v6-novelapp.fqnovelvod.com
