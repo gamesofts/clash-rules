@@ -13,6 +13,7 @@ cnlogs.umengcloud.com
 frontier100-toutiao-lf.fqnovel.com
 googleads.g.doubleclick.net
 gromore.pangolin-sdk-toutiao.com
+ip-api.com
 lf-cdn-tos.bytescm.com
 lf3-reading.fqnovelpic.com
 lf3-reading.fqnovelstatic.com
@@ -25,6 +26,7 @@ mores.toponad.com
 mssdk.volces.com
 mtgglobals.com
 mtgglobals.com
+order.luckydogsoft.com
 p3-ad-sign.byteimg.com
 p6-ad-sign.byteimg.com
 p9-ad-sign.byteimg.com
