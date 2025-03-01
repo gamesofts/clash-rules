@@ -1,2 +1,3 @@
+doubleclick.net
 recaptcha.net
-oracle.com
+hcaptcha.com
