@@ -10,7 +10,6 @@ aspect-upush.umeng.com
 bridgeoos.com
 cnlogs.umeng.com
 cnlogs.umengcloud.com
-doubleclick.net
 frontier100-toutiao-lf.fqnovel.com
 googleads.g.doubleclick.net
 gromore.pangolin-sdk-toutiao.com
