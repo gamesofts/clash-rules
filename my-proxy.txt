@@ -1,2 +1,1 @@
-recaptcha.net
-hcaptcha.com
+
