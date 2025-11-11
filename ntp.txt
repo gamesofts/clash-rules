@@ -51,3 +51,4 @@ time.izatcloud.net
 time.gpsonextra.net
 hik-time.ys7.com
 time.ys7.com
+ntp.nasa.gov
