@@ -22,12 +22,11 @@ ntp1.chinacloud.com.cn
 ntp2.chinacloud.com.cn
 ntp3.chinacloud.com.cn
 ntp.ntsc.ac.cn
-+.ntp.org.cn
-+.pool.ntp.org
+ntp.org.cn
+pool.ntp.org
 cn.ntp.org.cn
 ntp1.nim.ac.cn
 ntp2.nim.ac.cn
-cn.pool.ntp.org
 ntp.tencent.com
 ntp1.tencent.com
 ntp2.tencent.com
