@@ -21,6 +21,9 @@ juji.tv
 kan300.com
 kiwiot.com
 kwicdn.com
+mask.icloud.com
+mask-h2.icloud.com
+mask.apple-dns.net
 olocn.fun
 phicdn.net
 plex.direct
