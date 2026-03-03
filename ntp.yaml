@@ -53,3 +53,5 @@ payload:
   - "hik-time.ys7.com"
   - "time.ys7.com"
   - "ntp.nasa.gov"
+  - "ntp.ubuntu.com"
+  - "time.ustc.edu.cn"
