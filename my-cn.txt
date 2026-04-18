@@ -14,7 +14,6 @@ i-meto.com
 idp.devicelink.infra-host.com
 ihg.com
 in-addr.arpa
-ip-api.com
 jsccbcc.com
 jsjnsw.com
 juji.tv
