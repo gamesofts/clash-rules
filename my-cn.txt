@@ -55,3 +55,5 @@ yitong.com
 tqiot.com
 mijia.tech
 ottcn.com
+linux.do
+linuxdo.org
