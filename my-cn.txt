@@ -23,9 +23,6 @@ kan300.com
 kiwiot.com
 kwicdn.com
 marriott.com
-mask-h2.icloud.com
-mask.apple-dns.net
-mask.icloud.com
 olocn.fun
 phicdn.net
 plex.direct
@@ -57,3 +54,5 @@ mijia.tech
 ottcn.com
 linux.do
 linuxdo.org
+volvocars.com
+digitalvolvo.com
