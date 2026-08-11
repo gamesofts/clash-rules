@@ -1,0 +1,83 @@
+name: Build my-cn.srs
+
+on:
+  push:
+    branches:
+      - master
+    paths:
+      - my-cn.txt
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: build-my-cn-srs
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
+      - name: Generate sing-box source rule-set
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+
+          domains = []
+          seen = set()
+
+          for line in Path("my-cn.txt").read_text(encoding="utf-8").splitlines():
+              domain = line.strip().lower().rstrip(".")
+              if not domain or domain.startswith("#"):
+                  continue
+              domain = domain.lstrip(".")
+              if domain and domain not in seen:
+                  seen.add(domain)
+                  domains.append(domain)
+
+          if not domains:
+              raise SystemExit("my-cn.txt contains no valid domains")
+
+          rule_set = {
+              "version": 2,
+              "rules": [
+                  {
+                      "domain_suffix": domains
+                  }
+              ]
+          }
+
+          Path("my-cn.json").write_text(
+              json.dumps(rule_set, ensure_ascii=False, indent=2) + "\n",
+              encoding="utf-8",
+          )
+          PY
+
+      - name: Compile my-cn.srs
+        run: |
+          docker run --rm \
+            --user "$(id -u):$(id -g)" \
+            -v "$PWD:/work" \
+            -w /work \
+            ghcr.io/sagernet/sing-box:latest \
+            rule-set compile --output my-cn.srs my-cn.json
+          rm -f my-cn.json
+
+      - name: Commit generated rule-set
+        run: |
+          if git diff --quiet -- my-cn.srs; then
+            echo "my-cn.srs is already up to date"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add my-cn.srs
+          git commit -m "chore: update my-cn.srs"
+          git push
