@@ -68,3 +68,7 @@ fengkongcloud.com
 effirst.com
 snssdk.com
 getui.com
+
+# BEGIN AUTO-MYCN
+kuaishou.httpdns.pro
+# END AUTO-MYCN
