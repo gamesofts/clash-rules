@@ -63,3 +63,5 @@ aovpn.adm.com
 captive.apple.com
 renji.com
 mingya.pub
+jpush.io
+fengkongcloud.com
