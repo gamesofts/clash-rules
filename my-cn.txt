@@ -71,4 +71,5 @@ getui.com
 
 # BEGIN AUTO-MYCN
 kuaishou.httpdns.pro
+wap.cmpassport.com
 # END AUTO-MYCN
