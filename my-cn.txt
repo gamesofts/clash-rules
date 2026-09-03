@@ -91,5 +91,6 @@ waqi.info
 www.cmpassport.com
 yitong.com
 yumao.puata.info
+z12.cnzz.com
 zlsdk.1rtb.net
 # END AUTO-MYCN
