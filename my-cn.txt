@@ -9,10 +9,13 @@ aovpn.adm.com
 51tyty.com
 admobile.top
 adx-cfg-u1.ubixioe.com
+adx-data-u1.ubixioe.com
 api.share.mob.com
 b-gtc.getui.net
+baidu-mipdx.cn.miaozhen.com
 c-gtc.getui.net
 c.cnzz.com
+cdn.1rtb.com
 cmpassport.com
 doooly.com
 easytomessage.com
