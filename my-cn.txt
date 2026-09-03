@@ -24,6 +24,7 @@ eggjs.org
 fengkongcloud.com
 getui.com
 i-meto.com
+ido.gepush.com
 idp.devicelink.infra-host.com
 ihg.com
 in-addr.arpa
