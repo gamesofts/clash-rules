@@ -1,3 +1,11 @@
+captive.apple.com
+push.apple.com
+volvocars.com
+digitalvolvo.com
+myvpnap.adm.com
+aovpn.adm.com
+
+# BEGIN AUTO-MYCN
 114la.com
 admobile.top
 appgame.com
@@ -27,7 +35,6 @@ olocn.fun
 phicdn.net
 plex.direct
 plex.tv
-push.apple.com
 qiaoqiaodaka.com
 qimiaomh.com
 qiniuts.com
@@ -54,13 +61,8 @@ mijia.tech
 ottcn.com
 linux.do
 linuxdo.org
-volvocars.com
-digitalvolvo.com
 51tyty.com
 lcsignx.com
-myvpnap.adm.com
-aovpn.adm.com
-captive.apple.com
 renji.com
 mingya.pub
 jpush.io
@@ -68,8 +70,6 @@ fengkongcloud.com
 effirst.com
 snssdk.com
 getui.com
-
-# BEGIN AUTO-MYCN
 kuaishou.httpdns.pro
 oneid.gepush.com
 wap.cmpassport.com
