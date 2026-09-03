@@ -1,7 +1,5 @@
 captive.apple.com
 push.apple.com
-volvocars.com
-digitalvolvo.com
 myvpnap.adm.com
 aovpn.adm.com
 
