@@ -30,6 +30,7 @@ juyoufuli.com
 kiwiot.com
 kuaishou.httpdns.pro
 kwicdn.com
+log.mmstat.com
 log.umsns.com
 mingya.pub
 mpcfg.fancydsp.com
@@ -38,6 +39,7 @@ ottcn.com
 p1-lm.adukwai.com
 qiaoqiaodaka.com
 reach-life.com
+s-gm.mmstat.com
 s.1rtb.net
 s9.cnzz.com
 sdk-cfg.adx.adwangmai.com
@@ -53,6 +55,7 @@ techown.com
 toblog.ctobsnssdk.com
 toushibao.com
 tqiot.com
+wgo.mmstat.com
 yitong.com
 ynuf.aliapp.org
 yumao.puata.info
