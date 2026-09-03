@@ -13,6 +13,7 @@ api.share.mob.com
 appgame.com
 appletuan.com
 apzones.com
+b-gtc.gepush.com
 backloop.dev
 behe.com
 bymanhua.com
