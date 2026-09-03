@@ -62,3 +62,4 @@ myvpnap.adm.com
 aovpn.adm.com
 captive.apple.com
 renji.com
+mingya.pub
