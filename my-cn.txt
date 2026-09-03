@@ -12,6 +12,7 @@ ad-open2.fancydsp.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
+aiapa5g7le6xbzbx.nexusedgeio.com
 api.share.mob.com
 b-gtc.getui.net
 b-gy.getui.net
