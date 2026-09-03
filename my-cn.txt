@@ -8,6 +8,7 @@ aovpn.adm.com
 # BEGIN AUTO-MYCN
 51tyty.com
 aaid.uyunad.com
+ad-open2.fancydsp.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
@@ -24,6 +25,7 @@ datafinder-rabbit.meitustat.com
 df.tanx.com
 doooly.com
 easytomessage.com
+ehub-vt.ipinyou.com
 entry-su1.ubixioe.com
 fengkongcloud.com
 g.fancyapi.com
@@ -67,7 +69,9 @@ techown.com
 toblog.ctobsnssdk.com
 toushibao.com
 tqiot.com
+tr.medproad.com
 umini.shujupie.com
+v1-lm.adukwai.com
 wgo.mmstat.com
 yitong.com
 ynuf.aliapp.org
