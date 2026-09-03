@@ -73,4 +73,5 @@ getui.com
 kuaishou.httpdns.pro
 oneid.gepush.com
 wap.cmpassport.com
+www.cmpassport.com
 # END AUTO-MYCN
