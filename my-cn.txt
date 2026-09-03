@@ -23,6 +23,7 @@ effirst.com
 eggjs.org
 fengkongcloud.com
 getui.com
+gm.mmstat.com
 i-meto.com
 ido.gepush.com
 idp.devicelink.infra-host.com
