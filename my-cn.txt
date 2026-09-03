@@ -77,4 +77,5 @@ wap.cmpassport.com
 waqi.info
 www.cmpassport.com
 yitong.com
+yumao.puata.info
 # END AUTO-MYCN
