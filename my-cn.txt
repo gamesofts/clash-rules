@@ -7,6 +7,7 @@ aovpn.adm.com
 
 # BEGIN AUTO-MYCN
 51tyty.com
+aaid.uyunad.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
@@ -17,6 +18,7 @@ c-gtc.getui.net
 c.cnzz.com
 cdn.1rtb.com
 cmpassport.com
+datafinder-rabbit.meitustat.com
 df.tanx.com
 doooly.com
 easytomessage.com
