@@ -9,6 +9,9 @@ aovpn.adm.com
 114la.com
 51tyty.com
 admobile.top
+adx-cfg-u1.ubixioe.com
+adx-micro.statisticslinks.com
+adx-strategy-api-cn.statisticslinks.com
 api.share.mob.com
 appgame.com
 appletuan.com
@@ -23,12 +26,14 @@ c-ido.gepush.com
 c.cnzz.com
 config2.cmpassport.com
 ct10000.com
+da.statisticslinks.com
 deliwenku.com
 dnlog.cmpassport.com
 doooly.com
 easytomessage.com
 effirst.com
 eggjs.org
+entry-su1.ubixioe.com
 fengkongcloud.com
 g.fancyapi.com
 getui.com
@@ -75,6 +80,9 @@ renji.com
 rr.tv
 s.1rtb.net
 s9.cnzz.com
+sdk-cfg.adx.adwangmai.com
+sdk.1rtb.net
+sdk.adx.adwangmai.com
 sdk.beizi.biz
 shanghai-parking.com
 shbnrj.com
@@ -86,6 +94,7 @@ t2.fancyapi.com
 tapdb.net
 techown.com
 tencentmind.com
+tk.statisticslinks.com
 toblog.ctobsnssdk.com
 toushibao.com
 toutiao.io
