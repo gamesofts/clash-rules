@@ -60,6 +60,7 @@ mpcfg.fancydsp.com
 olocn.fun
 oneid.gepush.com
 ottcn.com
+p1-lm.adukwai.com
 phicdn.net
 plex.direct
 plex.tv
