@@ -20,6 +20,7 @@ c-ido.gepush.com
 config2.cmpassport.com
 ct10000.com
 deliwenku.com
+dnlog.cmpassport.com
 doooly.com
 effirst.com
 eggjs.org
