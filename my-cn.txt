@@ -65,3 +65,6 @@ renji.com
 mingya.pub
 jpush.io
 fengkongcloud.com
+effirst.com
+snssdk.com
+getui.com
