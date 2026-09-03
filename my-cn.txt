@@ -13,8 +13,10 @@ adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
 api.share.mob.com
 b-gtc.getui.net
+b-gy.getui.net
 baidu-mipdx.cn.miaozhen.com
 c-gtc.getui.net
+c-gy.getui.net
 c.cnzz.com
 cdn.1rtb.com
 cmpassport.com
