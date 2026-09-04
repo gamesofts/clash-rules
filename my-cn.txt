@@ -83,11 +83,13 @@ tqiot.com
 tr.medproad.com
 umini.shujupie.com
 v1-lm.adukwai.com
+v1.cnzz.com
 wgo.mmstat.com
 wx.sijiyoufu.com
 yitong.com
 ynuf.aliapp.org
 yumao.puata.info
 z12.cnzz.com
+z6.cnzz.com
 zlsdk.1rtb.net
 # END AUTO-MYCN
