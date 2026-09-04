@@ -67,6 +67,7 @@ sdk-api.beizi.biz
 sdk-cfg.adx.adwangmai.com
 sdk-report.beizi.biz
 sdk.1rtb.net
+sdk.51.la
 sdk.adx.adwangmai.com
 sdk.beizi.biz
 shbnrj.com
