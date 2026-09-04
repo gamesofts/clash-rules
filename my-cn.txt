@@ -21,6 +21,7 @@ c-gtc.getui.net
 c-gy.getui.net
 c.cnzz.com
 cdn.1rtb.com
+ckmap.mediav.com
 cmpassport.com
 datafinder-rabbit.meitustat.com
 df.tanx.com
@@ -34,6 +35,8 @@ files.sciencewalk.com
 fpinit-apac-cn.edge-itunes-apple.com.akadns.net
 g.cn.miaozhen.com
 g.fancyapi.com
+g1max.mediav.com
+g1rdtxd.mediav.com
 gepush.com
 getui.com
 gm.mmstat.com
