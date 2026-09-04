@@ -55,6 +55,7 @@ mpcfg.fancydsp.com
 olocn.fun
 ottcn.com
 p1-lm.adukwai.com
+pcmanager.api.mc.microsoft.com
 px.effirst.com
 qiaoqiaodaka.com
 qzs.gdtimg.com
