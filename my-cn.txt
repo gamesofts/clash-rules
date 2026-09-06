@@ -17,6 +17,7 @@ api.sijiyoufu.com
 b-gtc.getui.net
 b-gy.getui.net
 baidu-mipdx.cn.miaozhen.com
+bdlog.tanx.com
 c-gtc.getui.net
 c-gy.getui.net
 c.cnzz.com
