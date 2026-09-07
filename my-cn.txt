@@ -50,6 +50,7 @@ kuaishou.httpdns.pro
 kwicdn.com
 log.mmstat.com
 log.umsns.com
+max-r.mediav.com
 miaozhen.com
 mingya.pub
 mob.com
@@ -61,10 +62,12 @@ pcmanager.api.mc.microsoft.com
 px.effirst.com
 qiaoqiaodaka.com
 qzs.gdtimg.com
+rdtxd.mediav.com
 reach-life.com
 rumt-zh.com
 s-gm.mmstat.com
 s.1rtb.net
+s3m.mediav.com
 saastdi.ipinyou.com
 sdk-api.beizi.biz
 sdk-cfg.adx.adwangmai.com
