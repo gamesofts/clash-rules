@@ -71,6 +71,7 @@ sdk.1rtb.net
 sdk.51.la
 sdk.adx.adwangmai.com
 sdk.beizi.biz
+sdk.open.talk.igexin.com
 shbnrj.com
 snssdk.com
 t2.fancyapi.com
