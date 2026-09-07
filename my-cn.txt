@@ -26,6 +26,7 @@ entitlements-cdn-cn.edge-itunes-apple.com.akadns.net
 entry-su1.ubixioe.com
 fengkongcloud.com
 files.sciencewalk.com
+findersdk.yddop.com
 fpinit-apac-cn.edge-itunes-apple.com.akadns.net
 g.fancyapi.com
 g1max.mediav.com
@@ -87,6 +88,7 @@ wgo.mmstat.com
 wx.sijiyoufu.com
 yitong.com
 ynuf.aliapp.org
+yongdaapp-gateway.ve-link.com
 yumao.puata.info
 zlsdk.1rtb.net
 # END AUTO-MYCN
