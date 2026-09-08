@@ -82,6 +82,7 @@ sdk.beizi.biz
 sdk.open.talk.igexin.com
 shbnrj.com
 snssdk.com
+static.iottop.com
 t2.fancyapi.com
 tags.growingio.com
 tanx.com
