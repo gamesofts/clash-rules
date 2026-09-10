@@ -50,6 +50,7 @@ gepush.com
 getui.com
 getui.net
 gm.mmstat.com
+gz-i.lcsignx.com
 id6.me
 jpush.io
 jsccbcc.com
