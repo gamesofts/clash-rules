@@ -63,6 +63,7 @@ kuaishou.httpdns.pro
 kwicdn.com
 log.mmstat.com
 log.umsns.com
+m.kejet.net
 max-r.mediav.com
 miaozhen.com
 mingya.pub
