@@ -78,10 +78,12 @@ miaozhen.com
 mingya.pub
 mob.com
 mpcfg.fancydsp.com
+np.fancyapi.com
 olocn.fun
 ottcn.com
 p1-lm.adukwai.com
 pcmanager.api.mc.microsoft.com
+pic.fancyapi.com
 psp.tcc-cloud.com
 px.effirst.com
 qiaoqiaodaka.com
@@ -101,6 +103,7 @@ sdk.51.la
 sdk.adx.adwangmai.com
 sdk.beizi.biz
 sdk.open.talk.igexin.com
+sdkg.fancyapi.com
 shbnrj.com
 snssdk.com
 ssp.1rtb.com
