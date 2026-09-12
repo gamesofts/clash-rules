@@ -81,6 +81,7 @@ olocn.fun
 ottcn.com
 p1-lm.adukwai.com
 pcmanager.api.mc.microsoft.com
+psp.tcc-cloud.com
 px.effirst.com
 qiaoqiaodaka.com
 qzs.gdtimg.com
