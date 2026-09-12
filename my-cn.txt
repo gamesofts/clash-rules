@@ -41,6 +41,7 @@ en.petfairasia.com
 entitlements-cdn-cn.edge-itunes-apple.com.akadns.net
 entry-su1.ubixioe.com
 fengkongcloud.com
+files-cs.sciencewalk.com
 files.sciencewalk.com
 findersdk.yddop.com
 fpinit-apac-cn.edge-itunes-apple.com.akadns.net
