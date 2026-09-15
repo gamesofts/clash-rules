@@ -69,6 +69,8 @@ mpcfg.fancydsp.com
 olocn.fun
 ottcn.com
 p1-lm.adukwai.com
+p4-lm.adukwai.com
+p66-ad.adkwai.com
 pcmanager.api.mc.microsoft.com
 psp.tcc-cloud.com
 px.effirst.com
