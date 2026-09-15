@@ -81,6 +81,7 @@ sdk.open.talk.igexin.com
 shbnrj.com
 snssdk.com
 ssp.1rtb.com
+static.codefuture.top
 static.iottop.com
 stats-sdk.tange365.com
 tags.growingio.com
