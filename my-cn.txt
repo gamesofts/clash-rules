@@ -13,6 +13,7 @@ admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
 api.sijiyoufu.com
+backend.mytinyroutines.com
 beizi.biz
 bianfuli.cfukeji.com
 bv.lnk0.com
