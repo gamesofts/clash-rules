@@ -88,6 +88,7 @@ sdk-cfg.adx.adwangmai.com
 sdk.51.la
 sdk.adx.adwangmai.com
 sdk.open.talk.igexin.com
+sfjf.seaskysh.com
 shbnrj.com
 snssdk.com
 ssp.1rtb.com
