@@ -103,6 +103,7 @@ stats-sdk.tange365.com
 tags.growingio.com
 tanx.com
 tapdb.net
+tdsdk-ip6.xdrig.com
 techown.com
 tj-pod3-smp-device.gcsis-apple.com.akadns.net
 toblog.ctobsnssdk.com
