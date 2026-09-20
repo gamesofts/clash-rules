@@ -16,7 +16,6 @@ ad-open2.fancydsp.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
-api.sciencewalk.com
 api.sijiyoufu.com
 backend.mytinyroutines.com
 beizi.biz
@@ -38,8 +37,6 @@ entitlements-cdn-cn.edge-itunes-apple.com.akadns.net
 entry-su1.ubixioe.com
 fancyapi.com
 fengkongcloud.com
-files-cs.sciencewalk.com
-files.sciencewalk.com
 findersdk.yddop.com
 fpinit-apac-cn.edge-itunes-apple.com.akadns.net
 g8lg81iuoro0kbeq7o5i5cim623i8t0knms2pji0asics822rpj0cju.pureniox.com
@@ -90,6 +87,7 @@ reach-life.com
 rumt-zh.com
 s-gm.mmstat.com
 saastdi.ipinyou.com
+sciencewalk.com
 sdk-cfg.adx.adwangmai.com
 sdk.51.la
 sdk.adx.adwangmai.com
