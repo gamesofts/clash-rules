@@ -2,14 +2,9 @@ captive.apple.com
 push.apple.com
 myvpnap.adm.com
 aovpn.adm.com
+wmzfylgdsz.com
 
 # BEGIN AUTO-MYCN
-1e10adc3949ba59ab4tdot4annyihvu4heyqqs7qomu.wmzfylgdsz.com
-1e10adc3949ba59ab73imjfy37ri2s2lfb4nz3hfsx4.wmzfylgdsz.com
-1e10adc3949ba59ab7lbgwwvksqvdo7rqjh44idhvyu.wmzfylgdsz.com
-1e10adc3949ba59abpnkfbhl6l726frezhqhndndwwi.wmzfylgdsz.com
-1e10adc3949ba59abxzrh2zgyyguxusifdrykfjk63m.wmzfylgdsz.com
-1e10adc3949ba59abykj6bbegvpzwxdi3cajmzy6wse.wmzfylgdsz.com
 1rtb.net
 204757kc.lextvep.com
 51tyty.com
