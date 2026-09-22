@@ -24,6 +24,7 @@ cdn.1rtb.com
 cmpassport.com
 cn-smp-device.apple.com
 cnzz.com
+d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
 doooly.com
 dsp-creative.ubixioe.com
