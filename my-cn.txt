@@ -26,6 +26,7 @@ cloud.adse.cc
 cmpassport.com
 cn-smp-device.apple.com
 cnzz.com
+crs.fuxing360.com
 d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
 doooly.com
@@ -80,6 +81,7 @@ ottcn.com
 p1-lm.adukwai.com
 p4-lm.adukwai.com
 p66-ad.adkwai.com
+pass-api.ibtmap.com
 pcmanager.api.mc.microsoft.com
 psp.tcc-cloud.com
 px.effirst.com
@@ -121,6 +123,7 @@ v1-lm.adukwai.com
 v26-vllq-adp3-u1.onewsvod.com
 wgo.mmstat.com
 ws.mmstat.com
+www.hcare360.com
 www.pangolin-dsp-toutiao.com
 www.sammylab.com
 www.xingxingyuan.net
