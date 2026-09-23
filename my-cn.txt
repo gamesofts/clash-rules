@@ -82,6 +82,7 @@ p4-lm.adukwai.com
 p66-ad.adkwai.com
 pass-api.ibtmap.com
 pcmanager.api.mc.microsoft.com
+presale.jhtsoft.com
 psp.tcc-cloud.com
 pureniox.com
 px.effirst.com
