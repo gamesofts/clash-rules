@@ -93,6 +93,7 @@ qzs.gdtimg.com
 reach-life.com
 rumt-zh.com
 s-gm.mmstat.com
+s.adxvip.com
 saastdi.ipinyou.com
 sciencewalk.com
 sdk-cfg.adx.adwangmai.com
@@ -125,6 +126,7 @@ umdc.aliapp.org
 umini.shujupie.com
 v1-lm.adukwai.com
 v26-vllq-adp3-u1.onewsvod.com
+vt.ipinyou.com
 wgo.mmstat.com
 ws.mmstat.com
 www.fuxing360.com
