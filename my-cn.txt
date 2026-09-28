@@ -15,6 +15,7 @@ admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
 an.kejet.net
+api.iflyjz.com
 api.ocpx.ydmob.com
 api.sijiyoufu.com
 b.lnk0.com
