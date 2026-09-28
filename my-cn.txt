@@ -14,6 +14,7 @@ ad-open2.fancydsp.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
+an.kejet.net
 api.ocpx.ydmob.com
 api.sijiyoufu.com
 backend.mytinyroutines.com
@@ -50,6 +51,7 @@ gm.mmstat.com
 gomall.wegouer.com
 gz-i.lcsignx.com
 h5.vpad.net
+i.kejet.net
 id6.me
 ihis.fugao.com
 img.adanxing.com
