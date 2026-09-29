@@ -1,3 +1,5 @@
+# 该文件是 MetaCubeX/meta-rules-dat 中 cn 规则的补充，作者自用，由系统自动维护
+
 captive.apple.com
 push.apple.com
 myvpnap.adm.com
