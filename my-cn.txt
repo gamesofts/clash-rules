@@ -21,6 +21,7 @@ api.iflyjz.com
 api.ocpx.ydmob.com
 api.sijiyoufu.com
 api.talkingdata.com
+api.ychxing.com
 b.lnk0.com
 backend.mytinyroutines.com
 beizi.biz
