@@ -22,6 +22,7 @@ api.ocpx.ydmob.com
 api.sijiyoufu.com
 api.talkingdata.com
 api.ychxing.com
+autblh.xiaooo.club
 b.lnk0.com
 backend.mytinyroutines.com
 beizi.biz
@@ -110,6 +111,7 @@ sdk.adx.adwangmai.com
 sdk.open.talk.igexin.com
 sfjf.seaskysh.com
 shbnrj.com
+slhtest.cjtzn.com
 snssdk.com
 ssp.1rtb.com
 static.ainfinit.com
