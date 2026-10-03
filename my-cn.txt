@@ -95,6 +95,7 @@ pass-api.ibtmap.com
 pcmanager.api.mc.microsoft.com
 presale.jhtsoft.com
 psp.tcc-cloud.com
+public.cjtzn.com
 pureniox.com
 px.effirst.com
 qzs.gdtimg.com
@@ -116,6 +117,7 @@ static.codefuture.top
 static.iottop.com
 statics.adanxing.com
 stats-sdk.tange365.com
+sunland.cjtzn.com
 t.growingio.com
 tags.growingio.com
 tanx.com
