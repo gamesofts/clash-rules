@@ -31,6 +31,7 @@ bv.lnk0.com
 bvmlt.top
 cdn.1rtb.com
 cdn2.bulantegames.com
+cjtzn.com
 cloud.adse.cc
 cmpassport.com
 cn-smp-device.apple.com
@@ -96,7 +97,6 @@ pass-api.ibtmap.com
 pcmanager.api.mc.microsoft.com
 presale.jhtsoft.com
 psp.tcc-cloud.com
-public.cjtzn.com
 pureniox.com
 px.effirst.com
 qzs.gdtimg.com
@@ -111,7 +111,6 @@ sdk.adx.adwangmai.com
 sdk.open.talk.igexin.com
 sfjf.seaskysh.com
 shbnrj.com
-slhtest.cjtzn.com
 snssdk.com
 ssp.1rtb.com
 static.ainfinit.com
@@ -119,7 +118,6 @@ static.codefuture.top
 static.iottop.com
 statics.adanxing.com
 stats-sdk.tange365.com
-sunland.cjtzn.com
 t.growingio.com
 tags.growingio.com
 tanx.com

@@ -3,7 +3,7 @@
   "domains": {
     "1rtb.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.75.39.28",
@@ -17,10 +17,10 @@
     },
     "204757kc.lextvep.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "203.107.62.233"
+        "203.107.112.67"
       ],
       "countries": [
         "CN"
@@ -28,7 +28,7 @@
     },
     "51tyty.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.99.81.237"
@@ -39,10 +39,10 @@
     },
     "aaid.uyunad.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "124.237.49.173"
+        "116.132.235.205"
       ],
       "countries": [
         "CN"
@@ -50,10 +50,10 @@
     },
     "acs-m.securityhg.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "203.119.238.252"
+        "203.119.204.217"
       ],
       "countries": [
         "CN"
@@ -61,7 +61,7 @@
     },
     "ad-open2.fancydsp.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.163.147.83",
@@ -79,7 +79,7 @@
     },
     "admobile.top": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "118.31.220.173"
@@ -90,7 +90,7 @@
     },
     "adx-cfg-u1.ubixioe.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.184.60.109"
@@ -101,7 +101,7 @@
     },
     "adx-data-u1.ubixioe.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.184.56.218"
@@ -110,9 +110,31 @@
         "CN"
       ]
     },
+    "an.kejet.net": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "42.81.84.206"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
+    "api.iflyjz.com": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "39.107.253.242"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
     "api.ocpx.ydmob.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "36.140.148.42"
@@ -123,7 +145,7 @@
     },
     "api.sijiyoufu.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.100.122.233"
@@ -132,9 +154,55 @@
         "CN"
       ]
     },
+    "api.talkingdata.com": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "101.126.17.230",
+        "101.126.19.201"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
+    "api.ychxing.com": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "106.52.223.167"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
+    "autblh.xiaooo.club": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "139.196.255.125"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
+    "b.lnk0.com": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "101.126.152.155",
+        "101.126.159.146"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
     "backend.mytinyroutines.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "118.178.35.76"
@@ -145,7 +213,7 @@
     },
     "beizi.biz": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.106.100.21"
@@ -156,7 +224,7 @@
     },
     "bianfuli.cfukeji.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "8.138.53.26"
@@ -167,7 +235,7 @@
     },
     "bv.lnk0.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "101.126.152.155",
@@ -179,7 +247,7 @@
     },
     "bvmlt.top": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.93.126.89"
@@ -190,7 +258,7 @@
     },
     "cdn.1rtb.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "113.96.147.51",
@@ -198,8 +266,8 @@
         "119.188.13.224",
         "123.6.39.194",
         "125.89.169.4",
-        "125.89.170.4",
-        "140.249.149.3",
+        "125.89.170.1",
+        "140.249.149.5",
         "218.92.226.3"
       ],
       "countries": [
@@ -208,7 +276,7 @@
     },
     "cdn2.bulantegames.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "120.55.162.107"
@@ -219,7 +287,7 @@
     },
     "cloud.adse.cc": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "120.25.162.154"
@@ -230,7 +298,7 @@
     },
     "cmpassport.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "112.33.110.15"
@@ -241,7 +309,7 @@
     },
     "cn-smp-device.apple.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "101.230.204.224"
@@ -252,7 +320,7 @@
     },
     "cnzz.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "59.82.60.44"
@@ -263,7 +331,7 @@
     },
     "crs.fuxing360.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.107.196.201"
@@ -274,10 +342,10 @@
     },
     "d-gm.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "59.82.34.216"
+        "59.82.34.217"
       ],
       "countries": [
         "CN"
@@ -285,7 +353,7 @@
     },
     "datafinder-rabbit.meitustat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.96.184.30",
@@ -297,7 +365,7 @@
     },
     "doooly.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.101.238.217"
@@ -308,7 +376,7 @@
     },
     "dsp-creative.ubixioe.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "1.194.217.10",
@@ -328,7 +396,7 @@
     },
     "e-u1.ubixioe.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.184.56.170"
@@ -339,7 +407,7 @@
     },
     "easytomessage.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "1.92.70.140",
@@ -363,7 +431,7 @@
     },
     "en.petfairasia.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "121.46.194.12"
@@ -374,7 +442,7 @@
     },
     "entitlements-cdn-cn.edge-itunes-apple.com.akadns.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "101.71.164.194",
@@ -383,7 +451,8 @@
         "116.153.82.66",
         "125.89.169.197",
         "220.167.6.161",
-        "58.240.12.154"
+        "58.240.12.154",
+        "58.240.12.6"
       ],
       "countries": [
         "CN"
@@ -391,7 +460,7 @@
     },
     "entry-su1.ubixioe.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.184.60.109"
@@ -402,7 +471,7 @@
     },
     "fancyapi.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.94.92.251"
@@ -413,7 +482,7 @@
     },
     "fengkongcloud.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "49.233.125.100"
@@ -424,7 +493,7 @@
     },
     "findersdk.yddop.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "14.103.34.144"
@@ -435,7 +504,7 @@
     },
     "fpinit-apac-cn.edge-itunes-apple.com.akadns.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "101.71.164.194",
@@ -444,7 +513,8 @@
         "116.153.82.66",
         "125.89.169.197",
         "220.167.6.161",
-        "58.240.12.154"
+        "58.240.12.154",
+        "58.240.12.6"
       ],
       "countries": [
         "CN"
@@ -452,7 +522,7 @@
     },
     "gateway.houxueselect.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "116.205.76.163",
@@ -464,7 +534,7 @@
     },
     "gb.guangyouyou.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "112.124.14.211"
@@ -475,7 +545,7 @@
     },
     "gepush.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "183.136.220.61"
@@ -486,7 +556,7 @@
     },
     "getui.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "183.136.220.61"
@@ -497,7 +567,7 @@
     },
     "getui.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "183.136.220.61"
@@ -508,10 +578,10 @@
     },
     "gm.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "59.82.33.225"
+        "140.205.151.5"
       ],
       "countries": [
         "CN"
@@ -519,7 +589,7 @@
     },
     "gomall.wegouer.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "1.194.217.10",
@@ -539,7 +609,7 @@
     },
     "gz-i.lcsignx.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.55.93.175"
@@ -550,7 +620,7 @@
     },
     "h5.vpad.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "161.189.30.116",
@@ -560,9 +630,20 @@
         "CN"
       ]
     },
+    "i.kejet.net": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "115.190.44.84"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
     "id6.me": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "42.123.76.150",
@@ -574,7 +655,7 @@
     },
     "ihis.fugao.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "8.139.72.62"
@@ -585,17 +666,28 @@
     },
     "img.adanxing.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "221.229.165.147",
-        "221.229.165.148",
-        "221.229.165.149",
-        "221.229.165.150",
-        "221.229.165.151",
-        "221.229.165.152",
-        "221.229.165.153",
-        "221.229.165.154"
+        "111.29.1.162",
+        "111.29.1.163",
+        "111.29.1.164",
+        "111.29.1.165",
+        "111.29.1.166",
+        "111.29.1.167",
+        "111.29.1.168",
+        "111.29.1.169"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
+    "ipinyou.com": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "124.251.13.6"
       ],
       "countries": [
         "CN"
@@ -603,17 +695,17 @@
     },
     "jf.jifenqy.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "106.39.251.57",
-        "106.39.251.58",
-        "106.39.251.59",
-        "106.39.251.60",
-        "106.39.251.61",
-        "106.39.251.62",
-        "106.39.251.63",
-        "106.39.251.64"
+        "58.205.209.132",
+        "58.205.209.133",
+        "58.205.209.134",
+        "58.205.209.135",
+        "58.205.209.136",
+        "58.205.209.137",
+        "58.205.209.138",
+        "58.205.209.139"
       ],
       "countries": [
         "CN"
@@ -621,7 +713,7 @@
     },
     "jf.yihaoxing888.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "120.78.19.227"
@@ -632,7 +724,7 @@
     },
     "jic.talkingdata.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "115.190.54.158",
@@ -644,7 +736,7 @@
     },
     "jpush.io": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "139.9.134.142"
@@ -655,7 +747,7 @@
     },
     "jsccbcc.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.99.99.43"
@@ -666,7 +758,7 @@
     },
     "jsjnsw.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "61.177.133.157"
@@ -677,7 +769,7 @@
     },
     "jumpvg.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "49.232.238.178"
@@ -688,7 +780,7 @@
     },
     "juyoufuli.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "82.157.152.92"
@@ -699,11 +791,11 @@
     },
     "kfws.xeqyy.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "111.43.172.138",
-        "117.187.223.173"
+        "111.43.172.135",
+        "36.158.195.197"
       ],
       "countries": [
         "CN"
@@ -711,7 +803,7 @@
     },
     "kiwiot.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.110.88.173"
@@ -722,7 +814,7 @@
     },
     "kuaishou.httpdns.pro": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "103.102.202.124",
@@ -736,7 +828,7 @@
     },
     "kwicdn.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.110.88.173"
@@ -747,7 +839,7 @@
     },
     "lanjiemao.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "140.143.142.37"
@@ -758,10 +850,10 @@
     },
     "log.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "140.205.151.6"
+        "140.205.151.5"
       ],
       "countries": [
         "CN"
@@ -769,7 +861,7 @@
     },
     "log.umsns.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "59.82.112.112",
@@ -791,7 +883,7 @@
     },
     "m.kejet.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "153.101.64.230",
@@ -803,7 +895,7 @@
     },
     "mankegst.fun": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "139.199.172.106"
@@ -814,7 +906,7 @@
     },
     "mediav.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "101.91.111.13"
@@ -825,7 +917,7 @@
     },
     "miaozhen.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "120.53.77.203"
@@ -836,7 +928,7 @@
     },
     "mingya.pub": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "8.160.171.18"
@@ -847,7 +939,7 @@
     },
     "mlw.beidoupv.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.104.4.55"
@@ -858,7 +950,7 @@
     },
     "mob.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "60.188.7.57"
@@ -869,17 +961,17 @@
     },
     "mpcfg.fancydsp.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "43.248.231.20",
-        "43.248.231.25",
-        "43.248.231.26",
-        "43.248.231.27",
-        "43.248.231.28",
-        "43.248.231.29",
-        "43.248.231.30",
-        "43.248.231.31"
+        "218.244.8.21",
+        "218.244.8.22",
+        "218.244.8.23",
+        "218.244.8.24",
+        "218.244.8.25",
+        "218.244.8.26",
+        "218.244.8.27",
+        "218.244.8.28"
       ],
       "countries": [
         "CN"
@@ -887,7 +979,7 @@
     },
     "norglo.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.106.45.111"
@@ -898,10 +990,10 @@
     },
     "olocn.fun": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "122.193.197.166"
+        "122.193.197.69"
       ],
       "countries": [
         "CN"
@@ -909,7 +1001,7 @@
     },
     "ottcn.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.55.120.91",
@@ -921,7 +1013,7 @@
     },
     "p1-lm.adukwai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "183.93.116.207"
@@ -932,7 +1024,7 @@
     },
     "p4-lm.adukwai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "218.12.77.93",
@@ -948,7 +1040,7 @@
     },
     "p66-ad.adkwai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "218.12.77.93",
@@ -964,7 +1056,7 @@
     },
     "pass-api.ibtmap.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "112.74.56.46",
@@ -976,7 +1068,7 @@
     },
     "pcmanager.api.mc.microsoft.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "163.228.230.58"
@@ -987,7 +1079,7 @@
     },
     "presale.jhtsoft.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "118.178.60.152"
@@ -998,7 +1090,7 @@
     },
     "psp.tcc-cloud.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "120.78.68.105"
@@ -1009,7 +1101,7 @@
     },
     "pureniox.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.106.45.111"
@@ -1020,15 +1112,10 @@
     },
     "px.effirst.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "106.8.136.187",
-        "106.8.139.123",
-        "106.8.139.144",
-        "106.8.139.148",
-        "106.8.139.15",
-        "106.8.139.29"
+        "111.63.205.165"
       ],
       "countries": [
         "CN"
@@ -1036,7 +1123,7 @@
     },
     "qzs.gdtimg.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "116.131.226.149",
@@ -1049,7 +1136,7 @@
     },
     "reach-life.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.101.238.217"
@@ -1060,7 +1147,7 @@
     },
     "rumt-zh.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "113.240.76.236",
@@ -1072,10 +1159,10 @@
     },
     "s-gm.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "140.205.151.6"
+        "140.205.151.4"
       ],
       "countries": [
         "CN"
@@ -1083,7 +1170,7 @@
     },
     "s.adxvip.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.39.185.126",
@@ -1101,23 +1188,21 @@
     },
     "sciencewalk.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "113.240.117.105",
-        "113.240.117.106",
-        "115.223.9.115",
-        "115.223.9.116",
-        "116.153.39.131",
-        "116.153.39.136",
-        "121.22.232.163",
+        "115.223.9.113",
+        "115.223.9.120",
+        "116.153.39.132",
+        "116.153.39.134",
         "121.22.232.164",
-        "218.11.0.74",
-        "218.11.0.79",
-        "36.41.168.166",
+        "121.22.232.170",
+        "218.11.0.73",
+        "218.11.0.75",
+        "36.41.168.165",
         "36.41.168.170",
         "36.42.77.164",
-        "36.42.77.166"
+        "36.42.77.167"
       ],
       "countries": [
         "CN"
@@ -1125,7 +1210,7 @@
     },
     "sdk-cfg.adx.adwangmai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "43.180.207.51"
@@ -1136,15 +1221,15 @@
     },
     "sdk.51.la": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.74.32.242",
-        "112.46.240.46",
-        "117.187.133.32",
+        "112.46.240.47",
+        "117.187.133.33",
         "120.52.95.244",
         "125.74.108.43",
-        "183.60.255.94",
+        "183.60.255.95",
         "218.60.100.155",
         "27.159.90.74",
         "36.150.90.74"
@@ -1155,7 +1240,7 @@
     },
     "sdk.adx.adwangmai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "43.180.207.213"
@@ -1166,7 +1251,7 @@
     },
     "sdk.open.talk.igexin.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "115.236.96.95"
@@ -1177,7 +1262,7 @@
     },
     "sfjf.seaskysh.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "180.163.98.107"
@@ -1188,7 +1273,7 @@
     },
     "shbnrj.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "139.196.199.129"
@@ -1199,10 +1284,10 @@
     },
     "snssdk.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "122.14.229.128"
+        "122.14.229.127"
       ],
       "countries": [
         "CN"
@@ -1210,7 +1295,7 @@
     },
     "ssp.1rtb.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.75.39.16",
@@ -1224,10 +1309,10 @@
     },
     "static.ainfinit.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "140.249.145.120"
+        "124.232.182.38"
       ],
       "countries": [
         "CN"
@@ -1235,17 +1320,17 @@
     },
     "static.codefuture.top": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "180.163.147.83",
-        "180.163.147.84",
-        "180.163.147.85",
-        "180.163.147.86",
-        "180.163.147.87",
-        "180.163.147.88",
-        "180.163.147.89",
-        "180.163.147.90"
+        "211.162.167.10",
+        "211.162.167.11",
+        "211.162.167.12",
+        "211.162.167.13",
+        "211.162.167.14",
+        "211.162.167.15",
+        "211.162.167.16",
+        "211.162.167.9"
       ],
       "countries": [
         "CN"
@@ -1253,7 +1338,7 @@
     },
     "static.iottop.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.109.60.128"
@@ -1264,7 +1349,7 @@
     },
     "statics.adanxing.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "8.141.122.82"
@@ -1275,7 +1360,7 @@
     },
     "stats-sdk.tange365.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.106.172.2"
@@ -1286,7 +1371,7 @@
     },
     "t.growingio.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.75.118.58",
@@ -1298,7 +1383,7 @@
     },
     "tags.growingio.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "106.75.109.179"
@@ -1309,7 +1394,7 @@
     },
     "tanx.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "203.119.212.9",
@@ -1323,7 +1408,7 @@
     },
     "tapdb.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.106.166.68"
@@ -1334,11 +1419,11 @@
     },
     "tdsdk-ip6.xdrig.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "101.126.93.189",
-        "180.184.51.144"
+        "101.126.47.111",
+        "180.184.50.190"
       ],
       "countries": [
         "CN"
@@ -1346,7 +1431,7 @@
     },
     "techown.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "182.92.72.149"
@@ -1357,10 +1442,10 @@
     },
     "tj-pod3-smp-device.gcsis-apple.com.akadns.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "60.29.205.100"
+        "47.93.173.229"
       ],
       "countries": [
         "CN"
@@ -1368,30 +1453,30 @@
     },
     "toblog.ctobsnssdk.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "113.142.71.104",
-        "113.142.71.105",
-        "113.142.71.106",
-        "113.142.71.107",
-        "113.142.71.108",
-        "113.142.71.109"
+        "117.163.54.30",
+        "117.163.54.31",
+        "117.163.54.32",
+        "117.163.54.33",
+        "117.163.54.34",
+        "117.163.54.35"
       ],
       "countries": [
         "CN"
       ]
     },
     "tokyohot-api-73go1k.bejsul.com": {
-      "failures": 1,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "failures": 2,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "dns_error:OSError",
       "ips": [],
       "countries": []
     },
     "toushibao.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "49.4.79.50"
@@ -1400,9 +1485,21 @@
         "CN"
       ]
     },
+    "tp.dzhsq.top": {
+      "failures": 0,
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
+      "last_result": "has_cn_ipv4",
+      "ips": [
+        "116.211.128.118",
+        "27.155.113.115"
+      ],
+      "countries": [
+        "CN"
+      ]
+    },
     "tqiot.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.108.131.246"
@@ -1413,7 +1510,7 @@
     },
     "tr.medproad.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.106.81.43",
@@ -1428,7 +1525,7 @@
     },
     "trace.aqyad.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.156.121.83"
@@ -1439,7 +1536,7 @@
     },
     "umdc.aliapp.org": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "59.82.120.143",
@@ -1451,10 +1548,10 @@
     },
     "umini.shujupie.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "223.109.197.7"
+        "58.221.74.136"
       ],
       "countries": [
         "CN"
@@ -1462,7 +1559,7 @@
     },
     "v1-lm.adukwai.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "58.144.227.115"
@@ -1473,7 +1570,7 @@
     },
     "v26-vllq-adp3-u1.onewsvod.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.135.145.96",
@@ -1495,10 +1592,10 @@
     },
     "wgo.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "140.205.151.7"
+        "140.205.151.4"
       ],
       "countries": [
         "CN"
@@ -1506,7 +1603,7 @@
     },
     "ws.mmstat.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "59.82.34.236"
@@ -1517,7 +1614,7 @@
     },
     "www.fuxing360.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.107.196.201"
@@ -1528,7 +1625,7 @@
     },
     "www.hcare360.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "39.107.196.201"
@@ -1539,11 +1636,11 @@
     },
     "www.pangolin-dsp-toutiao.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
-        "122.14.229.11",
-        "122.14.229.145"
+        "101.126.58.63",
+        "122.14.229.146"
       ],
       "countries": [
         "CN"
@@ -1551,7 +1648,7 @@
     },
     "www.sammylab.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "171.43.169.210"
@@ -1562,7 +1659,7 @@
     },
     "www.xingxingyuan.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "8.134.118.210"
@@ -1573,7 +1670,7 @@
     },
     "wx.hzdongcheng.net": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "116.62.144.109"
@@ -1584,7 +1681,7 @@
     },
     "wx.sijiyoufu.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.100.122.233"
@@ -1595,7 +1692,7 @@
     },
     "yitong.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.98.179.169"
@@ -1606,7 +1703,7 @@
     },
     "ynuf.aliapp.org": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "124.239.14.252",
@@ -1618,7 +1715,7 @@
     },
     "yongdaapp-gateway.ve-link.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "47.96.193.124"
@@ -1629,7 +1726,7 @@
     },
     "yumao.puata.info": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "has_cn_ipv4",
       "ips": [
         "114.112.215.135",
@@ -1643,20 +1740,20 @@
         "CN"
       ]
     },
-    "ipinyou.com": {
+    "cjtzn.com": {
       "failures": 0,
-      "last_checked": "2026-09-27T22:16:36.515652+00:00",
+      "last_checked": "2026-10-04T22:21:10.060565+00:00",
       "last_result": "consolidated_subdomains",
       "ips": [
-        "124.251.13.6"
+        "116.204.84.13"
       ],
       "countries": [
         "CN"
       ],
       "consolidated_from": [
-        "ehub-vt.ipinyou.com",
-        "saastdi.ipinyou.com",
-        "vt.ipinyou.com"
+        "public.cjtzn.com",
+        "slhtest.cjtzn.com",
+        "sunland.cjtzn.com"
       ]
     }
   }
