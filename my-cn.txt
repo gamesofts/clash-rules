@@ -22,6 +22,7 @@ api.ocpx.ydmob.com
 api.sijiyoufu.com
 api.talkingdata.com
 api.ychxing.com
+app-tj.adinall.com
 autblh.xiaooo.club
 b.lnk0.com
 backend.mytinyroutines.com
@@ -36,11 +37,14 @@ cloud.adse.cc
 cmpassport.com
 cn-smp-device.apple.com
 cnzz.com
+cpi.adinall.com
 crs.fuxing360.com
 d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
 doooly.com
 dsp-creative.ubixioe.com
+dspimg.adinall.com
+dsptj.adinall.com
 e-u1.ubixioe.com
 easytomessage.com
 en.petfairasia.com
