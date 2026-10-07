@@ -16,6 +16,7 @@ ad-open2.fancydsp.com
 admobile.top
 adx-cfg-u1.ubixioe.com
 adx-data-u1.ubixioe.com
+adx2rtb-cm.adinall.com
 an.kejet.net
 api.iflyjz.com
 api.ocpx.ydmob.com
