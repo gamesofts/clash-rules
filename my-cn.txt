@@ -62,6 +62,7 @@ getui.com
 getui.net
 gm.mmstat.com
 gomall.wegouer.com
+gs-loc-cn.apple.com
 gz-i.lcsignx.com
 h5.vpad.net
 i.kejet.net
