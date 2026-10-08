@@ -124,6 +124,7 @@ ssp.1rtb.com
 static.ainfinit.com
 static.codefuture.top
 static.iottop.com
+static.jlcarshome.com
 statics.adanxing.com
 stats-sdk.tange365.com
 t.growingio.com
@@ -148,6 +149,7 @@ wgo.mmstat.com
 ws.mmstat.com
 www.fuxing360.com
 www.hcare360.com
+www.jlcarshome.com
 www.pangolin-dsp-toutiao.com
 www.sammylab.com
 www.xingxingyuan.net
