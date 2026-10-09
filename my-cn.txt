@@ -144,6 +144,7 @@ tqiot.com
 tr.medproad.com
 trace.aqyad.com
 tx-cfg-u1.ubixioe.com
+tx-data-u1.ubixioe.com
 umdc.aliapp.org
 umini.shujupie.com
 v1-lm.adukwai.com
