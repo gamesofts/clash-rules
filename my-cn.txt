@@ -43,6 +43,7 @@ cpi.adinall.com
 crs.fuxing360.com
 d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
+dl02.gxcould.com
 doooly.com
 dsp-creative.ubixioe.com
 dspimg.adinall.com
