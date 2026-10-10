@@ -43,6 +43,7 @@ cn-smp-device.apple.com
 cnzz.com
 cpi.adinall.com
 crs.fuxing360.com
+csm.jielixinxi.com
 d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
 dl02.gxcould.com
