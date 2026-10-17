@@ -46,6 +46,7 @@ crs.fuxing360.com
 csm.jielixinxi.com
 d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
+demo.wizarpos.com
 dl02.gxcould.com
 doooly.com
 dsp-creative.ubixioe.com
@@ -72,6 +73,7 @@ i.gridsumdissector.com
 i.kejet.net
 id6.me
 ihis.fugao.com
+img-dop-test.tcc-cloud.com
 img.adanxing.com
 imgs.3835.com
 ipinyou.com
@@ -115,6 +117,7 @@ presale.jhtsoft.com
 psp.tcc-cloud.com
 pureniox.com
 px.effirst.com
+qmimage.wizarpos.com
 qzs.gdtimg.com
 reach-life.com
 rumt-zh.com
