@@ -1,6 +1,9 @@
 # 该文件是 MetaCubeX/meta-rules-dat 中 cn 规则的补充，作者自用，由系统自动维护
 
 wmzfylgdsz.com
+ubixioe.com
+mmstat.com
+adukwai.com
 # BEGIN AUTO-MYCN
 1rtb.net
 204757kc.lextvep.com
@@ -12,8 +15,6 @@ acs-m.securityhg.com
 ad-open2.fancydsp.com
 adinall.com
 admobile.top
-adx-cfg-u1.ubixioe.com
-adx-data-u1.ubixioe.com
 alipay.bdqimeng88.top
 alphas.adxvip.com
 an.kejet.net
@@ -40,17 +41,13 @@ cn-smp-device.apple.com
 cnzz.com
 crs.fuxing360.com
 csm.jielixinxi.com
-d-gm.mmstat.com
 datafinder-rabbit.meitustat.com
 demo.wizarpos.com
 dl02.gxcould.com
 doooly.com
-dsp-creative.ubixioe.com
-e-u1.ubixioe.com
 easytomessage.com
 en.petfairasia.com
 entitlements-cdn-cn.edge-itunes-apple.com.akadns.net
-entry-su1.ubixioe.com
 fancyapi.com
 fengkongcloud.com
 findersdk.yddop.com
@@ -60,7 +57,6 @@ gb.guangyouyou.com
 gepush.com
 getui.com
 getui.net
-gm.mmstat.com
 gomall.wegouer.com
 gs-loc-cn.apple.com
 gz-i.lcsignx.com
@@ -87,7 +83,6 @@ kiwiot.com
 kuaishou.httpdns.pro
 kwicdn.com
 lanjiemao.com
-log.mmstat.com
 log.umsns.com
 m.kejet.net
 magellan.alimama.com
@@ -102,8 +97,6 @@ norglo.com
 olocn.fun
 open.kuaishouzt.com
 ottcn.com
-p1-lm.adukwai.com
-p4-lm.adukwai.com
 p66-ad.adkwai.com
 pass-api.ibtmap.com
 pcmanager.api.mc.microsoft.com
@@ -116,7 +109,6 @@ qmimage.wizarpos.com
 qzs.gdtimg.com
 reach-life.com
 rumt-zh.com
-s-gm.mmstat.com
 s.adxvip.com
 sciencewalk.com
 sdk-cfg.adx.adwangmai.com
@@ -147,18 +139,13 @@ tp.dzhsq.top
 tqiot.com
 tr.medproad.com
 trace.aqyad.com
-tx-cfg-u1.ubixioe.com
-tx-data-u1.ubixioe.com
 ulk.alimama.com
 umdc.aliapp.org
 umini.shujupie.com
-v1-lm.adukwai.com
 v26-vllq-adp3-u1.onewsvod.com
-wgo.mmstat.com
 wkbrs1.tingyun.com
 woodpecker.dui88.com
 wordpress.ingstart.com
-ws.mmstat.com
 www.citbao.com
 www.fuxing360.com
 www.hcare360.com
