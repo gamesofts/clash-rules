@@ -23,6 +23,7 @@ api.mijia.tech
 api.ocpx.ydmob.com
 api.sijiyoufu.com
 api.talkingdata.com
+api.track.adworker.top
 api.ychxing.com
 autblh.xiaooo.club
 b.lnk0.com
