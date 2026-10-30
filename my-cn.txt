@@ -173,6 +173,7 @@ www.wsiechina.com
 www.xingxingyuan.net
 wx.hzdongcheng.net
 wx.sijiyoufu.com
+wxapi.growingio.com
 xfysystemcdn.peixunxuexiao.org
 yitong.com
 ynuf.aliapp.org
