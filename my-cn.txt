@@ -60,6 +60,7 @@ gepush.com
 getui.com
 getui.net
 gomall.wegouer.com
+growingio.com
 gs-loc-cn.apple.com
 gz-i.lcsignx.com
 h5.vpad.net
@@ -136,8 +137,6 @@ statics.adanxing.com
 stats-sdk.tange365.com
 stream.hujiayi.com
 stun.smartgslb.com
-t.growingio.com
-tags.growingio.com
 tanx.com
 tapdb.net
 tdsdk-ip6.xdrig.com
@@ -176,7 +175,6 @@ www.wsiechina.com
 www.xingxingyuan.net
 wx.hzdongcheng.net
 wx.sijiyoufu.com
-wxapi.growingio.com
 xfysystemcdn.peixunxuexiao.org
 yitong.com
 ynuf.aliapp.org
