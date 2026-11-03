@@ -25,6 +25,7 @@ api.sijiyoufu.com
 api.talkingdata.com
 api.track.adworker.top
 api.ychxing.com
+apix.yyggames4jd.com
 autblh.xiaooo.club
 b.lnk0.com
 backend.mytinyroutines.com
