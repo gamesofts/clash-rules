@@ -6,6 +6,7 @@ mmstat.com
 adukwai.com
 # BEGIN AUTO-MYCN
 1rtb.net
+2.asia.pool.ntp.org
 204757kc.lextvep.com
 3835.com
 51tyty.com
