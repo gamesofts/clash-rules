@@ -62,7 +62,6 @@ gateway.houxueselect.com
 gb.guangyouyou.com
 gepush.com
 getui.com
-getui.net
 gomall.wegouer.com
 growingio.com
 gs-loc-cn.apple.com
@@ -160,7 +159,6 @@ umini.shujupie.com
 v26-vllq-adp3-u1.onewsvod.com
 wkbrs1.tingyun.com
 woodpecker.dui88.com
-wordpress.ingstart.com
 ws.zhizhengce.com
 wss.expo-nc.com
 wssapi.expo-nc.com
