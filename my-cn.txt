@@ -1,16 +1,15 @@
 # 该文件是 MetaCubeX/meta-rules-dat 中 cn 规则的补充，作者自用，由系统自动维护
 
-wmzfylgdsz.com
-ubixioe.com
-mmstat.com
 adukwai.com
+antpcdn.com
+mmstat.com
+ubixioe.com
+wmzfylgdsz.com
 # BEGIN AUTO-MYCN
 1rtb.net
-2.asia.pool.ntp.org
 204757kc.lextvep.com
 3835.com
 51tyty.com
-8dd764-2871785241.antpcdn.com
 aaid.uyunad.com
 acs-m.securityhg.com
 ad-open2.fancydsp.com
@@ -27,18 +26,18 @@ api.talkingdata.com
 api.track.adworker.top
 api.ychxing.com
 apix.yyggames4jd.com
+asia.pool.ntp.org
 autblh.xiaooo.club
 b.lnk0.com
 backend.mytinyroutines.com
 bag-china.itunes-apple.com.akadns.net
 beizi.biz
 bianfuli.cfukeji.com
+bulantegames.com
 bv.brg0.com
 bv.lnk0.com
 bvmlt.top
 cdn.1rtb.com
-cdn2.bulantegames.com
-cdn3.bulantegames.com
 cjtzn.com
 cloud.adse.cc
 cmp.zh.cmbchina.com
@@ -65,6 +64,7 @@ getui.com
 gomall.wegouer.com
 growingio.com
 gs-loc-cn.apple.com
+gspe79-cn-ssl-ls-apple-com.v.aaplimg.com
 gz-i.lcsignx.com
 h5.vpad.net
 hcrahqgg0.com
@@ -79,6 +79,7 @@ images.hujiayi.com
 img-dop-test.tcc-cloud.com
 img.adanxing.com
 imghs.peixunxuexiao.org
+init-china.itunes-apple.com.akadns.net
 inland-media.lzgame.top
 ipinyou.com
 jf.jifenqy.com
@@ -100,6 +101,7 @@ m.kejet.net
 magellan.alimama.com
 mankegst.fun
 mediav.com
+mesu-china.apple.com.akadns.net
 miaozhen.com
 mingya.pub
 mlw.beidoupv.com
