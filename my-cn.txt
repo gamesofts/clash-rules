@@ -134,6 +134,8 @@ sciencewalk.com
 sdk-cfg.adx.adwangmai.com
 sdk.51.la
 sdk.adx.adwangmai.com
+sdk.open.phone.igexin.com
+sdk.open.talk.getui.net
 sdk.open.talk.igexin.com
 sfjf.seaskysh.com
 shbnrj.com
