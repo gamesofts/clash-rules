@@ -15,8 +15,8 @@ acs-m.securityhg.com
 ad-open2.fancydsp.com
 adinall.com
 admobile.top
+adxvip.com
 alipay.bdqimeng88.top
-alphas.adxvip.com
 an.kejet.net
 api.iflyjz.com
 api.mijia.tech
@@ -42,7 +42,6 @@ c-ido.getui.net
 cdn.1rtb.com
 cjtzn.com
 cloud.adse.cc
-cm.adxvip.com
 cmp.zh.cmbchina.com
 cmpassport.com
 cn-smp-device.apple.com
@@ -72,7 +71,6 @@ gspe79-cn-ssl-ls-apple-com.v.aaplimg.com
 gz-i.lcsignx.com
 h5.vpad.net
 hcrahqgg0.com
-hk.pool.ntp.org
 hm-img.hdstfb.com
 i.gridsumdissector.com
 i.kejet.net
@@ -115,7 +113,6 @@ mpcfg.fancydsp.com
 norglo.com
 olocn.fun
 open-v1.cdyunzhanxinxi.com
-open.kuaishouzt.com
 ottcn.com
 p66-ad.adkwai.com
 pass-api.ibtmap.com
@@ -132,7 +129,6 @@ qzs.gdtimg.com
 reach-life.com
 read.pmthinking.com
 rumt-zh.com
-s.adxvip.com
 sciencewalk.com
 sdk-cfg.adx.adwangmai.com
 sdk.51.la
