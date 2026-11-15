@@ -119,6 +119,7 @@ open.kuaishouzt.com
 ottcn.com
 p66-ad.adkwai.com
 pass-api.ibtmap.com
+pay.cu-sc.com
 pcmanager.api.mc.microsoft.com
 pepe3.jielixinxi.com
 pfotoo.com
