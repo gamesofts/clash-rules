@@ -115,6 +115,7 @@ mpcfg.fancydsp.com
 norglo.com
 olocn.fun
 open-v1.cdyunzhanxinxi.com
+openapi.digitalinwest.com
 ottcn.com
 p66-ad.adkwai.com
 pass-api.ibtmap.com
@@ -141,6 +142,7 @@ sdk.open.talk.igexin.com
 sfjf.seaskysh.com
 shbnrj.com
 snssdk.com
+sourl.co
 ssp.1rtb.com
 static.ainfinit.com
 static.codefuture.top
