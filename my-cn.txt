@@ -7,6 +7,7 @@ mmstat.com
 ubixioe.com
 wmzfylgdsz.com
 # BEGIN AUTO-MYCN
+1.mlj94.com
 187509c.kt6th8f.com
 1rtb.net
 204757kc.lextvep.com
@@ -73,6 +74,7 @@ growingio.com
 gs-loc-cn.apple.com
 gspe79-cn-ssl-ls-apple-com.v.aaplimg.com
 gz-i.lcsignx.com
+h5.nssqcn.com
 h5.vpad.net
 hcrahqgg0.com
 hm-img.hdstfb.com
@@ -200,5 +202,6 @@ xfysystemcdn.peixunxuexiao.org
 yitong.com
 ynuf.aliapp.org
 yongdaapp-gateway.ve-link.com
+ys.haoniu2.com
 yumao.puata.info
 # END AUTO-MYCN
