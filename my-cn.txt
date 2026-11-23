@@ -157,6 +157,7 @@ stream.hujiayi.com
 stun.smartgslb.com
 tanx.com
 tapdb.net
+tcp-gateway.detailroi.com
 tcp-rule.detailroi.com
 tdsdk-ip6.xdrig.com
 techown.com
