@@ -31,6 +31,7 @@ api.tongjiniao.com
 api.track.adworker.top
 api.ychxing.com
 apix.yyggames4jd.com
+artalk.weichen.ink
 asia.pool.ntp.org
 autblh.xiaooo.club
 b.lnk0.com
@@ -64,6 +65,7 @@ entitlements-cdn-cn.edge-itunes-apple.com.akadns.net
 fancyapi.com
 fengkongcloud.com
 findersdk.yddop.com
+fms.xcz.life
 fpinit-apac-cn.edge-itunes-apple.com.akadns.net
 gateway.houxueselect.com
 gb.guangyouyou.com
@@ -171,11 +173,13 @@ tr.medproad.com
 trace.aqyad.com
 ukey.godimage.mobi
 ulk.alimama.com
+umami.weichen.ink
 umdc.aliapp.org
 umini.shujupie.com
 v26-vllq-adp3-u1.onewsvod.com
 veodiayg.tj9tuirqy.w150e.com
 wecom.saierwh.com
+weichen.ink
 wkbrs1.tingyun.com
 wm2.haoniuu3.com
 wm3.haoniuu3.com
