@@ -116,6 +116,7 @@ mlw.beidoupv.com
 mob.com
 mpcfg.fancydsp.com
 norglo.com
+notify-svc-main-r2.whinbrook.com
 olocn.fun
 open-v1.cdyunzhanxinxi.com
 openapi.digitalinwest.com
