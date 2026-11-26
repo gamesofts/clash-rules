@@ -30,6 +30,7 @@ api.talkingdata.com
 api.tongjiniao.com
 api.track.adworker.top
 api.ychxing.com
+api2.qpft5.com
 apix.yyggames4jd.com
 artalk.weichen.ink
 asia.pool.ntp.org
