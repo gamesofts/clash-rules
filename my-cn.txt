@@ -30,6 +30,7 @@ api.talkingdata.com
 api.tongjiniao.com
 api.track.adworker.top
 api.ychxing.com
+api.zwhzbj.com
 api2.qpft5.com
 apix.yyggames4jd.com
 artalk.weichen.ink
@@ -143,6 +144,8 @@ qmimage.wizarpos.com
 qzs.gdtimg.com
 reach-life.com
 read.pmthinking.com
+res.zwhzbj.com
+resource.zwhzbj.com
 roboimg.mybaiqiu.com
 rumt-zh.com
 sciencewalk.com
@@ -208,6 +211,7 @@ www.wsiechina.com
 www.xingxingyuan.net
 wx.hzdongcheng.net
 wx.sijiyoufu.com
+wxapp-ws.zwhzbj.com
 xfysystemcdn.peixunxuexiao.org
 yitong.com
 ynuf.aliapp.org
